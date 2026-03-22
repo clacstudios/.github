@@ -53,4 +53,4 @@ codec.decode("song.clac", "song.wav")  # Decompress
 **Desktop application for encoding, decoding, and playing CLAC files.**
 
 ```bash
-python clac_studio.py
+python clac-studio.py
