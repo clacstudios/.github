@@ -11,7 +11,7 @@
 
 ## 🌟 Overview
 
-**CLAC Studios** is a complete lossless audio compression ecosystem built entirely from scratch in Python. This repository contains everything you need to compress, decompress, and play audio using the custom **CLAC** (Custom Lossless Audio Codec) format.
+**CLAC Studios** is a complete lossless audio compression ecosystem built entirely from scratch in Python. This repository contains everything you need to compress, decompress, and play audio using the custom **CLAC** (Cole's Lossless Audio Codec) format.
 
 ### Why CLAC?
 
